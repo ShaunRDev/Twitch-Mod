@@ -1,0 +1,8 @@
+#Linux Uninstall Guide
+
+1. Open Terminal
+2. use this command `sudo apt remove twitch-mod`
+3. input password
+4. Wait for it to complete
+
+That is how you uninstall this program on linux
