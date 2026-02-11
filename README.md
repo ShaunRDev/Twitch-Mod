@@ -1,5 +1,6 @@
 # Twitch-Mod
 Moderation Tool for Twitch.tv
+Link to discord support server : https://discord.gg/EgTM5ynWhz
 
 how to connect twitch and Twitch Moderator together
 
