@@ -1,5 +1,7 @@
 #Guide to Twitch Moderation Tool
 
+Link to discord support server : https://discord.gg/EgTM5ynWhz
+
 1. Dashboard
    * Total Users : Shows you current users in your chat
    * Messages : Shows you total messages (While App is connected) and how many messages per minute
